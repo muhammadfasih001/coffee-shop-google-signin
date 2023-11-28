@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "210942308419",
+    "project_id": "signin-8c20b",
+    "storage_bucket": "signin-8c20b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210942308419:android:590896a257b5aa980424f6",
+        "android_client_info": {
+          "package_name": "com.example.fasih_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210942308419-p6vllrbntrhrbahdtel95suu08irvl69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVG585la1oGT27xwbPt7J5iWYRedgcS0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210942308419-p6vllrbntrhrbahdtel95suu08irvl69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
